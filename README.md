@@ -43,4 +43,22 @@ Ejemplo de una lista de chequeo - Obtener el pasaporte
 - [X] Ir a la cita
 - [ ] Esperar a que lleguie el documento
 
+Simón Bolivar dijo:
+
+> En el momento en que casen los partidos
+> y se consolide la unión, yo bajaré tranquilo al sepulcro
+
+## Tabla de verdad del AND
+
+ A | B  | A AND B
+---|----|---------
+ V |  V |  V
+ V |  F |  F 
+ F |  V |  F
+ F |  F |  F
+
+## Ejemplo de código de Pytho
+```python 
+print("Hola, este es un ejemplo de código")
+``
 
