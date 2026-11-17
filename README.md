@@ -27,14 +27,20 @@ Ejemplo de una lista numerada
 5. Salir a la universidad
 
 Ejemplo de una lista con varios niveles - Lunas de los planetas 
-*Tierra
- *Luna
-*Jupiter
- *Calisto
- *Ganímedes
- *Europa
- *Io
-*Saturno
- *Titán
+* Tierra
+  * Luna
+* Jupite
+  * Calisto
+  * Ganímedes
+  * Europa
+  * Io
+* Saturno
+  * Titán
+
+Ejemplo de una lista de chequeo - Obtener el pasaporte 
+- [X] Obtener una cita
+- [x] Pagar los derehcos 
+- [X] Ir a la cita
+- [ ] Esperar a que lleguie el documento
 
 
