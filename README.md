@@ -57,8 +57,13 @@ Simón Bolivar dijo:
  F |  V |  F
  F |  F |  F
 
-## Ejemplo de código de Pytho
+## Ejemplo de código de Python
 ```python 
 print("Hola, este es un ejemplo de código")
-``
+```
+## Ejemplo de código en PowerShell
+```powershell
+Remove-item -recurse directorio-prueba
+```
+
 
