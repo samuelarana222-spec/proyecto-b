@@ -65,5 +65,8 @@ print("Hola, este es un ejemplo de código")
 ```powershell
 Remove-item -recurse directorio-prueba
 ```
+# Ejemplo de emojis 
+:+1: :octocat: 🪗 🇨🇴
+
 
 
