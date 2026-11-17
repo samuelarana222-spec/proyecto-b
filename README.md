@@ -25,3 +25,16 @@ Ejemplo de una lista numerada
 3. Bañarme y cepillarme 
 4. Vestirme
 5. Salir a la universidad
+
+Ejemplo de una lista con varios niveles - Lunas de los planetas 
+*Tierra
+ *Luna
+*Jupiter
+ *Calisto
+ *Ganímedes
+ *Europa
+ *Io
+*Saturno
+ *Titán
+
+
